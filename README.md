@@ -44,7 +44,5 @@
 
 交流群
 
-<figure><img src=".gitbook/assets/87ec87e17abea66ad1c8f1b3232a1bc.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/cf57bb96745158a8150497577b58d0b.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
