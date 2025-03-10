@@ -32,7 +32,7 @@
 * [内地找工作](zhao-gong-zuo/nei-di-zhao-gong-zuo.md)
 * [回香港找工作](zhao-gong-zuo/hui-xiang-gang-zhao-gong-zuo.md)
 
-## 非常有用的各种公众号
+## 🤠 非常有用的各种公众号
 
 * [微信公众号](fei-chang-you-yong-de-ge-zhong-gong-zhong-hao/wei-xin-gong-zhong-hao.md)
 
