@@ -1,3 +1,8 @@
+---
+description: >-
+  致敬交通大学生存指南（https://survivesjtu.gitbook.io/survivesjtumanual），深受启发，由此写成本港澳台生生存指南
+---
+
 # 为什么应该看这个指南？
 
 你好，我是在上海某Top4混的研二香港生。欢迎来到在内地港澳台生存指南的入口。为什么写这么一个生存指南？
