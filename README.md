@@ -49,5 +49,4 @@ description: >-
 
 交流群
 
-<figure><img src=".gitbook/assets/cf57bb96745158a8150497577b58d0b.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
+<figure><img src=".gitbook/assets/c95653d339b52ba98b6b222727dc38b.jpg" alt="" width="375"><figcaption></figcaption></figure>
