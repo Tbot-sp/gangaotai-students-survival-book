@@ -25,6 +25,7 @@
 * [怎么去大厂？](zhao-shi-xi-pian/zen-me-qu-da-chang.md)
 * [腾讯港澳台英才实习计划](zhao-shi-xi-pian/teng-xun-gang-ao-tai-ying-cai-shi-xi-ji-hua.md)
 * [“展翅计划”](zhao-shi-xi-pian/zhan-chi-ji-hua.md)
+* [“智慧科协”实习计划](zhao-shi-xi-pian/zhi-hui-ke-xie-shi-xi-ji-hua.md)
 * [香港实习](zhao-shi-xi-pian/xiang-gang-shi-xi.md)
 
 ## ☠️ 找工作
