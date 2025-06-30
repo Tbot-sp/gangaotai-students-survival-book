@@ -49,12 +49,10 @@ description: >-
 
 
 
+交流群
 
+<div align="center"><figure><img src=".gitbook/assets/微信图片_20250630175458.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 帖主微信，欢迎交流
 
 <figure><img src=".gitbook/assets/08299bbba6e6e9443eebeda42076cc3.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-交流群
-
-<div align="center"><figure><img src=".gitbook/assets/微信图片_20250630175458.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
