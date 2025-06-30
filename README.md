@@ -57,4 +57,4 @@ description: >-
 
 交流群
 
-<div align="center"><figure><img src=".gitbook/assets/43eaf4eb5226c32f569a755fa99ebed.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/微信图片_20250630175458.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
