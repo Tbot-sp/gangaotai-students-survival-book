@@ -43,6 +43,14 @@ description: >-
 
 
 
+免费的信息机器人小程序：全能牛牛：一站式解答你有关升学，学习，生活，实习等全方位内容!&#x20;
+
+&#x20;                                                             ![](<.gitbook/assets/gh_8051d31d35a6_258 (1).jpg>)
+
+
+
+
+
 帖主微信，欢迎交流
 
 <figure><img src=".gitbook/assets/08299bbba6e6e9443eebeda42076cc3.jpg" alt="" width="375"><figcaption></figcaption></figure>
